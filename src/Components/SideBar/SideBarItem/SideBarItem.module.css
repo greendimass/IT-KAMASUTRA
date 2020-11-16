@@ -1,0 +1,12 @@
+.side {
+    grid-area: s;
+    background-color: burlywood;
+    padding: 20px;
+    text-align:center;
+}
+.avaFriend img{
+    width: 40px;
+    border-radius: 20px;
+
+   margin-left: 10px;
+}

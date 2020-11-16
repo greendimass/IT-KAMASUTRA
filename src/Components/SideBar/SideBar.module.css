@@ -1,0 +1,18 @@
+.side {
+    grid-area: s;
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+}
+
+.pos {
+    grid-area: f;
+}
+.friendsBar {
+    display: grid;
+    grid-template-areas:
+       "f""f""f";
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\api",
+    "\\src\\assets",
+    "\\src\\Components",
+    "\\src\\Components\\Header",
+    "\\src\\Components\\Profile",
+    "\\src\\Components\\Profile\\ProfileInfo",
+    "\\src\\Components\\Users",
+    "\\src\\redux"
+  ],
+  "SelectedNode": "\\src\\api\\api.js",
+  "PreviewInSolutionExplorer": false
+}
